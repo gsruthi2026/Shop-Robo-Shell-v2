@@ -17,3 +17,4 @@ do
     --output text
       echo "instance_id :: ${instance_id} "
       )
+done
