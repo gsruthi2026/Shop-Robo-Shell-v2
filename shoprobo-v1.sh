@@ -2,7 +2,7 @@
 
 ami_ids="ami-0055977a6e828a4f4"
 instance_types="t3.micro"
-domain_name="daws92s.store"
+domain_name="shoprobo.store"
 hosted_zone_id="get above domain hosted zone id in aws"
 
 for instance in $@
